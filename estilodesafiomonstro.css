@@ -1,0 +1,219 @@
+.chifre{
+	background-color: #0000FF;
+	height: 25px;
+	width: 10px;
+	position: absolute; 
+	top: 72px;
+	left: 525px; 
+}
+.chifre2{
+	background-color: #0000FF;
+	height: 25px;
+	width: 10px;
+	position: absolute; 
+	top: 72px;
+	left: 773px; 
+}
+.cabeca{
+	background-color:red;
+	height: 190px;
+	width: 290px;
+	position: relative;
+	top:90px; 
+	left: 500px;
+}
+.olho{
+	height:70px;
+	width:70px;
+	background-color: #ffffff;
+	border-radius: 100px;
+	position:absolute;
+	top: 150px;
+	left:560px;
+}
+.olho2{
+	height:70px;
+	width:70px;
+	background-color: #ffffff; 
+	border-radius: 100px;
+	position: absolute;
+	top: 150px;
+	left: 680px;
+}
+.iris{
+	height: 45px;
+	width:  45px;
+	background-color: black;
+	border-radius: 100px;
+	position: absolute;
+	top: 163px;
+	left: 573px;
+}
+.iris2{
+	height: 45px; 
+	width:  45px;
+	background-color: black; 
+	border-radius: 100px;
+	position: absolute;
+	top: 163px;
+	left: 693px;
+}
+.cristalino{
+	height: 20px;
+	width:  20px;
+	background-color: #ffff; 
+	border-radius: 100px;
+	position: absolute;
+	top:  175px;
+	left: 600px;  
+}
+.cristalino2{
+	height: 20px;
+	width:  20px; 
+	background-color: #ffff; 
+	border-radius: 100px;
+	position: absolute;
+	top: 175px; 
+	left:692px;
+}
+.boca{
+	height: 35px;
+	width:  29px; 
+	background-color: #FFD700; 
+	border-radius: 10px;
+	position: absolute;
+	top:  238px ; 
+	left: 640px;
+}
+.dente{
+	height: 5px;
+	width:  5px; 
+	background-color:#ffff; 
+	position: absolute;
+	top:  239px ; 
+	left: 647px;
+}
+.dente2{
+	height: 5px;
+	width:  5px; 
+	background-color:#ffff; 
+	position: absolute;
+	top:  239px; 
+	left: 655px;
+}
+.dente3{
+	height: 5px;
+	width:  5px; 
+	background-color:#ffff; 
+	position: absolute;
+	top:  268px ; 
+	left: 647px;
+	
+
+}
+.dente4{
+	height: 5px;
+	width:  5px; 
+	background-color:#ffff; 
+	position: absolute;
+	top:  268px; 
+	left: 655px;
+}
+.corpo{
+	height: 200px;
+	width:  170px;
+	background-color: red;
+	position: relative;
+	top:  91px; 
+	left: 559px;
+}
+.barriga{
+	background-color: #fff;
+	height: 188px;
+	width: 140px;
+	border-radius: 90px;
+	position: absolute;
+	top:  290px ; 
+	left: 583px;
+}
+.gravata{
+	background-color: black;
+	height:100px;
+	width:30px;
+	border-radius: 40px;
+	position: absolute;
+	top: 290px ;
+	left:638px ; 
+}
+.botao{
+	background-color:#ffff;
+	height:20px;
+	width:20px;
+	border-radius: 40px;
+	position: absolute;
+	top: 300px ;
+	left:643px ; 
+
+}
+.botao2{
+	background-color:#ffff;
+	height:20px;
+	width:20px;
+	border-radius: 40px;
+	position: absolute;
+	top: 330px ;
+	left:643px ; 
+}
+.botao3{
+	background-color:#ffff;
+	height:20px;
+	width:20px;
+	border-radius: 40px;
+	position: absolute;
+	top: 359px ;
+	left:643px ; 
+
+}
+.braco{
+	background-color: #ADFF2F;
+	width:  40px; 
+	height: 100px;
+	position: absolute;
+	top: 297px;   
+	left: 526px; 
+}
+.braco2{
+	background-color: #ADFF2F;
+	width:  40px; 
+	height: 100px;
+	position: absolute;
+	top: 297px;   
+	left: 739px; 
+
+}
+.mao{
+	background-color: #7CFC00;
+	width:  40px; 
+	height: 20px;
+	position: absolute;
+	top: 399px;   
+	left: 526px; 
+	
+}
+.mao2{
+	background-color: #7CFC00;
+	width:  40px; 
+	height: 20px;
+	position: absolute;
+	top: 399px;   
+	left: 739px;
+}
+.pe{
+	background-color: 	#FFD700;
+	box-shadow: 3px 3px 7px #008000;
+	height: 35px;
+	width: 98px;
+	position: absolute;
+	top:  489px; 
+	left: 600px;
+}
